@@ -126,7 +126,11 @@ scheme: Pisces #导航栏左侧
 # Key is the link label showing to end users.
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
-#social:
+social:
+  Github: https://github.com/ghshuo || github
+  掘金: https://juejin.im/user/59485c49fe88c2006a8fad57 || spinner
+  简书: http://www.jianshu.com/users/0ab65ff7b0b6/timeline || heartbeat
+  CSDN: http://my.csdn.net/my/mycsdn || bookmark
   #GitHub: https://github.com/yourname || github
   #E-Mail: mailto:yourname@gmail.com || envelope
   #Google: https://plus.google.com/yourname || google
