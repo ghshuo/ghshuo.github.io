@@ -40,7 +40,7 @@ keywords: "Hexo, NexT"
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss:
+rss: /atom.xml
 
 footer:
   # Specify the date when the site was setup.
@@ -111,9 +111,9 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
+# scheme: Muse
 #scheme: Mist
-#scheme: Pisces
+scheme: Pisces #导航栏左侧
 #scheme: Gemini
 
 
@@ -277,7 +277,7 @@ custom_logo:
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: normal
+highlight_theme: night #设置代码高亮主题
 
 
 # ---------------------------------------------------------------
@@ -352,8 +352,9 @@ han: false
 # Swiftype Search API Key
 #swiftype_key:
 
+# 百度统计
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: b5c14c075f2ec225dcc8628280f1b100
 
 # Duoshuo ShortName
 #duoshuo_shortname:
