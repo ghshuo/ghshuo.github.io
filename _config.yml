@@ -81,7 +81,3 @@ deploy:
   type: git
   repo: https://github.com/ghshuo/ghshuo.github.io.git
   branch: master
-
-# 百度统计
-# baidu Analytics ID
-baidu_analytics: b5c14c075f2ec225dcc8628280f1b100
