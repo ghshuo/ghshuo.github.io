@@ -25,6 +25,11 @@
   <span class="post-meta-divider">|</span>
 {% endif %#}
 
+<script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<span id="busuanzi_container_site_uv">
+  你是莫小耿的第<span id="busuanzi_value_site_uv"></span>小伙伴
+</span>
+
 {% if theme.footer.custom_text %}
   <div class="footer-custom">{#
   #}{{ theme.footer.custom_text }}{#
