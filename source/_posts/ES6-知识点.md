@@ -208,6 +208,5 @@ export {firstName, lastName, year};
   // 导入的时候不需要花括号
   import test from './test.js';
 ```
-#### import
 ### 参考
 link： http://es6.ruanyifeng.com/
