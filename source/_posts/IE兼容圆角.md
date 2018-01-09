@@ -1,7 +1,7 @@
 ---
 title: IE9以下圆角兼容
 date: 2017-12-20 15:19:56
-categories: "记录" #文章分类目录
+categories: "IE兼容" #文章分类目录
 tags: [css3, IE] #文章标签 可以省略
 ---
 ### 使用方法
