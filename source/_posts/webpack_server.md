@@ -5,6 +5,8 @@ categories: "webpack" #文章分类目录
 tags: webpack #文章标签 可以省略
 ---
 
+![webpack](/images/webpack.jpg)
+
 ### 运行命令
 运行npm run server 
 ### 出现错误
