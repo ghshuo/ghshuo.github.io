@@ -6,6 +6,7 @@ tags: webpack #文章标签 可以省略
 ---
 
 ![webpack](/images/webpack.jpg)
+<!-- more -->
 
 ### 运行命令
 运行npm run server 
