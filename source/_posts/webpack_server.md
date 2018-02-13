@@ -1,7 +1,7 @@
 ---
 title: webpack执行npm run server报错解决方法
 date: 2018-02-13 11:59:56
-categories: "vue" #文章分类目录
+categories: "webpack" #文章分类目录
 tags: webpack #文章标签 可以省略
 ---
 
