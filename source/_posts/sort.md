@@ -4,7 +4,7 @@ date: 2018-03-01 12:19:56
 categories: "sotr" #文章分类目录
 tags: javaSrcipt #文章标签 可以省略
 ---
-![2017年年度总结](/images/sort.jpg)
+![sort用法总结](/images/sort.jpg)
 <!-- more -->
 ### 前言
 sort() 方法用于对数组的元素进行排序,并返回数组。
