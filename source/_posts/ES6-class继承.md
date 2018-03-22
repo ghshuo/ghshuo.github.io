@@ -1,8 +1,10 @@
 ---
 title: class继承
 date: 2017-11-27 20:10:50
-categories: "ECMAScript 6" #文章分类目录
-tags: [ES6, class继承,StudyNote] #文章标签 可以省略
+categories:  
+        - 前端
+        - ES6 #文章分类目录
+tags: [前端, ES6] #文章标签 可以省略
 description: #你對本頁的描述 可以省略
 ---
 

@@ -1,9 +1,12 @@
 ---
 title: sort用法总结
 date: 2018-03-01 12:19:56
-categories: "sotr" #文章分类目录
-tags: javaSrcipt #文章标签 可以省略
+tags: [前端, JavaScript]
+categories: 
+        - 前端
+        - JavaScript
 ---
+
 ![sort用法总结](/images/sort.jpg)
 <!-- more -->
 ### 前言

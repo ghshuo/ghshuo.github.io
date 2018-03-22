@@ -1,8 +1,10 @@
 ---
 title: ES6 学习笔记总结
 date: 2017-11-23 14:10:30
-categories: "ECMAScript 6" #文章分类目录
-tags: [ES6, StudyNote] #文章标签 可以省略
+categories:  
+        - 前端
+        - ES6 #文章分类目录
+tags: [前端, ES6] #文章标签 可以省略
 description: #你對本頁的描述 可以省略
 ---
 
