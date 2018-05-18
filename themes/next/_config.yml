@@ -374,7 +374,7 @@ disqus:
 
 # changyan
 changyan:
-  enable: true
+  enable: false
   appid: cytnSILqC
   appkey: 4c73382f536647ce0df823f6bb55597b
 
