@@ -7,8 +7,10 @@ title: 莫小耿
 subtitle: 积少成多
 description: 求知若饥 虚心若愚
 author: Geng Hong Shuo
-language: zh-Hans
+language: zh-CN
 timezone:
+
+toc: true
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -73,7 +75,7 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 plugins: hexo-generate-feed
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: maupassant
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -81,3 +83,9 @@ deploy:
   type: git
   repo: https://github.com/ghshuo/ghshuo.github.io.git
   branch: master
+
+# hexo-admin authentification
+admin:
+  username: hsgeng
+  password_hash: $2a$10$JSX79KZWXp8Zn96Sy1dqwuKQKAYnUerTIWxhzvD.zNqqh/PeEUp.C
+  secret: my super secret phrase

@@ -1,10 +1,11 @@
----
 title: ajaxfileupload上传
-date: 2018-03-20 12:19:56
-tags: [前端, JavaScript]
-categories: 
-        - 前端
-        - JavaScript
+tags:
+  - 前端
+  - JavaScript
+categories:
+  - 前端
+  - JavaScript
+date: 2018-03-20 12:19:00
 ---
 
 
